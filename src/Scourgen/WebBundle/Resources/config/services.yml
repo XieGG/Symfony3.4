@@ -1,0 +1,4 @@
+services:
+#    scourgen_web.example:
+#        class: Scourgen\WebBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
